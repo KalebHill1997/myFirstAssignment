@@ -1,0 +1,81 @@
+
+
+.btn {
+    filter: invert(100%); 
+      -webkit-filter: invert(100%);
+}
+
+.btnBack {
+    background-color: red;
+}
+
+.right {
+    text-align: right;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 0px 10px 0px 0px;
+    color: white;
+}
+
+.rightBottom {
+    text-align: right;
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    padding: 20px 0px 0px 0px;
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+    border-radius: 0%;
+}
+
+.logoB {
+    background-color:red;
+    
+}
+
+.btn.cart {
+    margin-left: -10px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
+
+ #productsButton {
+     padding-left: 30px;
+ }
+
+ #firstParagraph {
+    font-family: Montserrat;
+    text-align: center;
+    font-size: large;
+}
+
+#secondParagraph {
+    font-family: Noto Sans JP;
+    text-align: center;
+    font-weight: 20px;
+    font-size: large;
+    color: green;
+}
+
+#myPicture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div ul li a:hover {
+    background-color: red;
+}
